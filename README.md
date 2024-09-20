@@ -3,7 +3,7 @@ Deployment Instructions
 
 To deploy the RAG model, you can install Jupyter notebook locally or use Google colab:
 
-1- Install Ollama and add to your system path https://ollama.com/download
+1. Install Ollama and add to your system path https://ollama.com/download
 2. Open a terminal and run 'ollama serve'
 3. In another terminal download ollama models by 'ollama pull llama3.1'
 4. Create a virtual environment 'python -m venv rag_env'
